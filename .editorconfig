@@ -1,0 +1,7 @@
+[*.{js,ts,jsx,tsx,json,css,scss,sass,cjs,py,babelrc}]
+
+charset = utf-8
+
+indent_style = space
+
+indent_size = 2
